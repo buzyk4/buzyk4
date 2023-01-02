@@ -2,6 +2,9 @@
 
 Welcome to my page!
 I'm Arkadiusz, Frontend developer from  Rzeszów, Polend.
+
+- 🔭 I’m currently working on Anime page for my portfolio
+- 🌱 I’m currently learning JS, HTML5, CSS3
 <!--
 **buzyk4/buzyk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
