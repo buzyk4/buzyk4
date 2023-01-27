@@ -35,7 +35,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=buzyk4&theme=dark)](https://git.io/streak-stats)
 <!--
 **buzyk4/buzyk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
